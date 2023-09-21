@@ -1,5 +1,5 @@
-const knockKnockJokes = [ ['Owls', 'They sure do'], ['Adorable', "A-doorbell doesn't work, that's why I knocked"],
-['Daisy', 'Dey see me rollin, dey hatin'], ['Kenya', 'Kenya open the door']];
+const knockKnockJokes = [ ['Owls', 'They sure do!'], ['Adorable', "A-doorbell doesn't work, that's why I knocked!"],
+['Daisy', 'Dey see me rollin, dey hatin...'], ['Kenya', 'Kenya open the door?']];
 
 let jokeIndex = Math.floor(Math.random() * 4);
 
