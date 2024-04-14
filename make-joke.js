@@ -2,6 +2,11 @@ function generateRandomNumber() {
     return Math.floor(Math.random() * 5);
 }
 
+function addJoke(question, answer) {
+    questions.push(question);
+    answers.push(answer);
+}
+
 const questions = ['Owls', 'Adorable', 'Daisy', 'Kenya', 'Lettuce'];
 const answers = [
     'They sure do!', 
